@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592562137502",
+    "project_id": "sport-app-2db98",
+    "storage_bucket": "sport-app-2db98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592562137502:android:fa22eb77ad1d1f685f4e8f",
+        "android_client_info": {
+          "package_name": "com.example.sportapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkEWHaYmVqPX00ppUZqpn8nYMPzC-DN10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

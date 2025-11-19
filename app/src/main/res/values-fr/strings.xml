@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sport App</string>
+
+    <!-- Home -->
+    <string name="home_subtitle">Toute l’actu sport, en un coup d’œil.</string>
+    <string name="btn_toast">Toast</string>
+    <string name="btn_snackbar">Snackbar</string>
+    <string name="btn_notification">Notification</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_appearance">Apparence</string>
+    <string name="settings_section">Section par défaut</string>
+    <string name="settings_language">Langue</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_en">Anglais</string>
+
+    <string name="nav_home">Accueil</string>
+    <string name="nav_articles">Articles</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="nav_login">Connexion</string>
+    <string name="nav_register">Inscription</string>
+
+    <string name="title_home">Accueil</string>
+    <string name="title_articles">Articles</string>
+    <string name="title_favorites">Favoris</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="title_login">Connexion</string>
+    <string name="title_register">Inscription</string>
+</resources>
